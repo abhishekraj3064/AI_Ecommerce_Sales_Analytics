@@ -1,3 +1,4 @@
+<img width="1001" height="584" alt="dashboard_preview" src="https://github.com/user-attachments/assets/7f67056d-aa7a-48f0-8528-4a4985e49d83" />
 # AI-Powered E-Commerce Sales Analytics
 
 An end-to-end data analytics project built using Python, SQL, and Power BI to analyze retail sales data, uncover business insights, and create an interactive dashboard for decision-making.
@@ -81,7 +82,8 @@ AI_Ecommerce_Sales_Analytics/
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.jpeg)
+<img width="1001" height="584" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d5c11e5c-3a54-40b1-83a2-481a04f2494d" />
+
 
 ---
 

@@ -1,0 +1,10 @@
+use ecommerce_sales;
+select * from cleaned_superstore;
+select 'Customer Name', Sales from cleaned_superstore;
+select * from cleaned_superstore where sales > 1000;
+select * from cleaned_superstore where region= 'west';
+SELECT *FROM cleaned_superstore WHERE Category = 'Technology';
+SELECT * FROM cleaned_superstore WHERE Discount > 0.2;
+select * from cleaned_superstore order by sales DESC;
+select * from cleaned_superstore order by sales desc limit 10;
+select distinct region from cleaned_superstore;
